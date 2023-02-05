@@ -1,7 +1,7 @@
-##The following is the version scheme used in all of my Minecraft modpack projects:
+####The following is the version scheme used in all of my Minecraft modpack projects:
 
 (if you are familiar with version schemes, you can skip to line 7).   
-    My modpack projects use a variant of the basic standard versioning scheme. There are four variables in the format X.X.X-X. The first number represents a major version/ change and is not backwards compatible. Game breaking changes happen between these, and thus world saves should never move between major versions.
+My modpack projects use a variant of the basic standard versioning scheme. There are four variables in the format X.X.X-X. The first number represents a major version/ change and is not backwards compatible. Game breaking changes happen between these, and thus world saves should never move between major versions.
     The second number is a content update, and is backwards compatible. This involves the addition or removal of content, and can sometimes mean items disappearing from your world (but they won't technically break).
     The third number is the patch version. These contain bug fixes and are also backwards compatible.
     The fourth number after the dash corresponds to a server pack version. Server pack versions are tracked separately, and the part that needs to match is the fourth number after the dash on both versions (E.g client version 12.4.6-17 and server version 11.20.3-17 would be compatible). The fourth number of both client and server MUST match.
