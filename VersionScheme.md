@@ -1,4 +1,4 @@
-The following is the version scheme used in all of my Minecraft modpack projects:
+##The following is the version scheme used in all of my Minecraft modpack projects:
 
 (if you are familiar with version schemes, you can skip to line 7).   
     My modpack projects use a variant of the basic standard versioning scheme. There are four variables in the format X.X.X-X. The first number represents a major version/ change and is not backwards compatible. Game breaking changes happen between these, and thus world saves should never move between major versions.
