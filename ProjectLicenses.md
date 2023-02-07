@@ -7,5 +7,5 @@
 - You follow Mojang's TOS of no paywalling. 
 - Any forks must state in their title or description that they are forks. 
 - If you modify any assets, you must state so in the project description.   
-- You do not reupload your project to sites other than Curseforge and Modrinth if it contains assets owned by T3mp3st051, without their express permission. 
+- You do not reupload your project to sites other than Curseforge and Modrinth if it contains assets owned by T3mp3st051 (AKA Tempest051), without their express permission. 
 - You include this license in your project. 
