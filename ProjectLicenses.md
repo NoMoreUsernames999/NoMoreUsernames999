@@ -1,8 +1,8 @@
-## The following is the license used in the Minecraft modding projects of Tempest051, AKA T3mp3st051, AKA NoMoreUsernames999. 
+## The following is the license used in the Minecraft modding projects of Tempest051 (AKA T3mp3st051, AKA NoMoreUsernames999), and any official Cyclone Modding projects. 
 
 *(For legal purposes, this license is written in legal jargon. For a TL;DR of the use terms in plain English, see the bottom footnote)*
 
-**Copyright (c) 2023 Tempest051.** 
+**Copyright (c) 2023 Cyclone Modding.** 
 
 a.  
 Clarification of terms: The term of **"Assets"** as used in this license, in regards to the outlined softwares, refers to any digital assets or components in the Minecraft modding projects of Tempest051 for which Tempest051 has full or partial ownership over, that they are allowed to grant use rights to. For any assets or components of the projects of Tempest051 for which they do not own or have the right to dictate use rights for; the following conditions do not apply where applicable, and users must follow any conditions of said Asset's/ softwares in regards to their End User license Agreements. **"User(s)"** refers to you, the User, who is obtaining copies of any "Assets" from the Softwares for which this license applies to, modified or not. **"Forks"** refers to any Software created by the end User as a branch of the original Softwares covered by this license, with the intent of partially changing the Software or not, while maintaining in part or in whole the original identity of the Software under an alternate developer.  
