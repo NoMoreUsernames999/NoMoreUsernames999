@@ -1,5 +1,5 @@
 - My tag across most sites and games is Tempest051
-- I play Minecraft mostly on 1.12, and currently develope Minecraft modpacks for this version.
+- I play Minecraft mostly on 1.12, and currently develop Minecraft modpacks for this version.
 - My team is always open to new members. 
 
 <!---
